@@ -14,7 +14,7 @@ class NovaxTheme {
     textTheme: const TextTheme(
       bodyMedium: TextStyle(color: Color(0xFF0F172A)),
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       color: Colors.white,
       elevation: 3,
       shape: RoundedRectangleBorder(
