@@ -1,0 +1,7 @@
+# NOVAX Mobile - Code Owners
+
+# CI/CD and security
+.github/ @ytrextrvl
+
+# Configuration
+pubspec.yaml @ytrextrvl
